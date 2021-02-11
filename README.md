@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 #### Who needs a personal static website when you have this option :)
 ##### I'll fill later
 <!--
