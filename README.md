@@ -1,6 +1,6 @@
 ### Hi there 
 #### [home](https://samired.github.io/) | [linkedin](https://www.linkedin.com/in/samired) | [fosstodon](https://fosstodon.org/@smir)
-##### I'll fill later
+##### 
 <!--
 **samired/samired** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
