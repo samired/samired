@@ -1,5 +1,5 @@
 ### Hi there 
-#### Who needs a personal static website when you have this option :)
+#### [home](https://samired.github.io/) | [linkedin](https://www.linkedin.com/in/samired) | [fosstodon](https://fosstodon.org/@smir)
 ##### I'll fill later
 <!--
 **samired/samired** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
